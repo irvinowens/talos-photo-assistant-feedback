@@ -1,13 +1,13 @@
 # talos-photo-assistant-feedback
 The feedback and issue tracking repository for the Talos application
 
-Welcome to the official feedback and issue tracking repository for Talos: Photo Assistant.
+# Welcome to the official feedback and issue tracking repository for Talos: Photo Assistant.
 
 Talos is designed to be a companion to professional workflows like Lightroom® and Capture One®, providing secure, cloud-powered AI intelligence while keeping your original high-resolution files exactly where they belong—on your Mac.
 
-Visit the Website | Download on Mac App Store (Coming Soon)
+# [Visit the Website](https://sigsegv.us/talos) | Download on Mac App Store (Coming Soon)
 
-🚀 About the Project
+# 🚀 About the Project
 Talos was built by photographers who understand the need for quality, control, and privacy. It focuses on three core pillars:
 
 Smart Tagging: Automatic visual recognition for places, objects, and scenes using XMP sidecar files.
@@ -16,7 +16,7 @@ AI Descriptions: Detailed context for every shot, perfect for accessibility and 
 
 Photo Coach: A personalized AI guide to help with composition, lighting, and editing feedback.
 
-🎯 Purpose of this Tracker
+# 🎯 Purpose of this Tracker
 This repository is the central hub for our community to help shape the future of Talos. Use the Issues tab to:
 
 Report Bugs: Let us know if something isn't working as expected on macOS.
@@ -25,7 +25,7 @@ Request Features: Suggest new AI models, workflow integrations, or UI improvemen
 
 XMP/Workflow Feedback: Share how Talos is interacting with your existing local libraries or NAS setups.
 
-🛠 How to Contribute
+# 🛠 How to Contribute
 1. Search First
 Before creating a new issue, please search the existing ones to see if your bug or request has already been logged. If it has, add a 👍 reaction or a comment with additional context.
 
@@ -38,7 +38,7 @@ When opening a new issue, please select the most relevant template:
 
 🎨 UI/UX Suggestion: Feedback on the interface and ease of use.
 
-📋 Roadmap & Labels
+# 📋 Roadmap & Labels
 We use labels to communicate the status of your requests:
 
 priority: high – Critical issues affecting the core workflow.
@@ -49,7 +49,7 @@ type: enhancement – New features or improvements to existing tools.
 
 app-store-release – Tasks required for our upcoming official launch.
 
-⚖️ Guidelines & Privacy
+# ⚖️ Guidelines & Privacy
 Your Privacy: Talos is built on a privacy-first AI model. When reporting issues, please do not upload sensitive personal photos. If a bug is related to a specific image type, describing the file format (RAW, TIFF, JPEG) and metadata is usually enough.
 
 Professional Conduct: Please keep discussions constructive. We are a small team building this for the photography community.
