@@ -1,4 +1,4 @@
-# talos-photo-assistant-feedback
+# Talos: Photo Assistant Feedback
 The feedback and issue tracking repository for the Talos application
 
 ## Welcome to the official feedback and issue tracking repository for Talos: Photo Assistant.
