@@ -5,7 +5,7 @@ The feedback and issue tracking repository for the Talos application
 
 Talos is designed to be a companion to professional workflows like Lightroom® and Capture One®, providing secure, cloud-powered AI intelligence while keeping your original high-resolution files exactly where they belong—on your Mac.
 
-## [Visit the Website](https://sigsegv.us/talos) | Download on Mac App Store (Coming Soon)
+## [Visit the Website](https://sigsegv.us/talos) | [Download on Mac App Store](https://apps.apple.com/us/app/talos-photo-assistant/id6759996771?mt=12)
 
 ## 🚀 About the Project
 Talos was built by photographers who understand the need for quality, control, and privacy. It focuses on three core pillars:
